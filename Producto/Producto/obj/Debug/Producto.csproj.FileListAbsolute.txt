@@ -1,0 +1,12 @@
+C:\Users\Alumnos\Desktop\Producto\Producto\bin\Debug\Producto.dll
+C:\Users\Alumnos\Desktop\Producto\Producto\bin\Debug\Producto.pdb
+C:\Users\Alumnos\Desktop\Producto\Producto\obj\Debug\Producto.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\Producto\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Producto\Producto\obj\Debug\Producto.dll
+C:\Users\Alumnos\Desktop\Producto\Producto\obj\Debug\Producto.pdb
+C:\Users\Álvaro\Desktop\Producto\Producto\bin\Debug\Producto.dll
+C:\Users\Álvaro\Desktop\Producto\Producto\bin\Debug\Producto.pdb
+C:\Users\Álvaro\Desktop\Producto\Producto\obj\Debug\Producto.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Producto\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Producto\Producto\obj\Debug\Producto.dll
+C:\Users\Álvaro\Desktop\Producto\Producto\obj\Debug\Producto.pdb
